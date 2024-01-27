@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Wenhan Li",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "liwenhan82@gmail.com",
+  "friendly_name": "Big Data Analytics",
+  "github_user": "li00-lab",
+  "license": "MIT",
+  "package_name": "big_data_analytics",
+  "project_name": "big-data-analytics",
+  "version": "0.0.0"
+}
